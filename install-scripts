@@ -5,6 +5,8 @@ usage() {
 
 The option --pvs-dir <pvs path> can be used to provide the directory where PVS is installed. 
 This option can be omitted if the directory is in the \$PVS_DIR or the \$PATH environment variables."
+
+The option --iamconfused is only for trying out the CodeLogic GitHup App. It will never really be used.
 }
 
 pvsdir=
